@@ -75,7 +75,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
      labels[0]: {
-       "texts": ["귀여움은", "고양이의", "가장 큰 특징입니다"],
+       "texts": ["귀여움은", "강아지의", "가장 큰 특징입니다"],
        "images": ["https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp"],
        "videos": ["https://www.youtube.com/watch?v=moFB-j5iY2E"]
      },
