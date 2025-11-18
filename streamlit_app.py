@@ -79,8 +79,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp"],
        "videos": ["https://www.youtube.com/watch?v=moFB-j5iY2E"]
      },
+
+     labels[1]: {
+       "texts": ["싸가지는", "고양이의", "매력입니다"],
+       "images": ["https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp"],
+       "videos": ["https://www.youtube.com/watch?v=moFB-j5iY2E"]
+     },
 }
 
+labels[2]: {
+       "texts": ["큰 귀는", "토끼의", "특징입니다"],
+       "images": ["https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp"],
+       "videos": ["https://www.youtube.com/watch?v=moFB-j5iY2E"]
 # ======================
 # 유틸
 # ======================
